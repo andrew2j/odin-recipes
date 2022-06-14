@@ -1,1 +1,1 @@
-# odin-recipes
+This project showcases my ability to build a very simple website, which contains four recipe webpages. It demonstrates that I am able to build a multi-page website, each page of which has some minimal formatting by means of header, paragraph, list, and image elements. It also shows, that I am capable to keep track of my progress via Git commits and publish the finished project on GitHub.  
